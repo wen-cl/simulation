@@ -1,0 +1,1765 @@
+At t = 0.0
+queue length : 0
+At t = 1.0
+queue length : 0
+At t = 2.0
+queue length : 0
+At t = 3.0
+queue length : 0
+At t = 4.0
+queue length : 0
+At t = 5.0
+queue length : 0
+At t = 6.0
+queue length : 0
+At t = 7.0
+queue length : 0
+At t = 8.0
+queue length : 0
+At t = 9.0
+queue length : 1
+In queue: event t = 9, client id - 8e66515a-a324-11eb-aae4-842afd1e2d74, client's floor number - 15, direction - down
+starting to move, elevator's travelling end time 38.400000000000006
+At t = 10.0
+queue length : 0
+At t = 11.0
+queue length : 1
+In queue: event t = 11, client id - 8e66515b-a324-11eb-8f67-842afd1e2d74, client's floor number - 9, direction - Up
+starting to move, elevator's travelling end time 27.8
+At t = 12.0
+queue length : 0
+At t = 13.0
+queue length : 0
+At t = 14.0
+queue length : 0
+At t = 15.0
+queue length : 0
+At t = 16.0
+queue length : 0
+At t = 17.0
+queue length : 0
+At t = 18.0
+queue length : 0
+At t = 19.0
+queue length : 0
+At t = 20.0
+queue length : 1
+In queue: event t = 20, client id - 8e66515c-a324-11eb-8153-842afd1e2d74, client's floor number - 13, direction - down
+At t = 21.0
+queue length : 1
+In queue: event t = 20, client id - 8e66515c-a324-11eb-8153-842afd1e2d74, client's floor number - 13, direction - down
+At t = 22.0
+queue length : 1
+In queue: event t = 20, client id - 8e66515c-a324-11eb-8153-842afd1e2d74, client's floor number - 13, direction - down
+At t = 23.0
+queue length : 1
+In queue: event t = 20, client id - 8e66515c-a324-11eb-8153-842afd1e2d74, client's floor number - 13, direction - down
+At t = 24.0
+queue length : 1
+In queue: event t = 20, client id - 8e66515c-a324-11eb-8153-842afd1e2d74, client's floor number - 13, direction - down
+At t = 25.0
+queue length : 1
+In queue: event t = 20, client id - 8e66515c-a324-11eb-8153-842afd1e2d74, client's floor number - 13, direction - down
+At t = 26.0
+queue length : 2
+In queue: event t = 20, client id - 8e66515c-a324-11eb-8153-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 26, client id - 8e66515d-a324-11eb-8959-842afd1e2d74, client's floor number - 6, direction - Up
+At t = 27.0
+queue length : 2
+In queue: event t = 20, client id - 8e66515c-a324-11eb-8153-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 26, client id - 8e66515d-a324-11eb-8959-842afd1e2d74, client's floor number - 6, direction - Up
+At t = 28.0
+queue length : 2
+In queue: event t = 20, client id - 8e66515c-a324-11eb-8153-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 26, client id - 8e66515d-a324-11eb-8959-842afd1e2d74, client's floor number - 6, direction - Up
+Elevator 2 arrived at floor - 9
+starting to move, elevator's travelling end time 38.5
+At t = 29.0
+queue length : 2
+In queue: event t = 20, client id - 8e66515c-a324-11eb-8153-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 26, client id - 8e66515d-a324-11eb-8959-842afd1e2d74, client's floor number - 6, direction - Up
+At t = 30.0
+queue length : 2
+In queue: event t = 20, client id - 8e66515c-a324-11eb-8153-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 26, client id - 8e66515d-a324-11eb-8959-842afd1e2d74, client's floor number - 6, direction - Up
+At t = 31.0
+queue length : 3
+In queue: event t = 20, client id - 8e66515c-a324-11eb-8153-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 26, client id - 8e66515d-a324-11eb-8959-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 31, client id - 8e66515e-a324-11eb-a8a0-842afd1e2d74, client's floor number - 11, direction - down
+At t = 32.0
+queue length : 3
+In queue: event t = 20, client id - 8e66515c-a324-11eb-8153-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 26, client id - 8e66515d-a324-11eb-8959-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 31, client id - 8e66515e-a324-11eb-a8a0-842afd1e2d74, client's floor number - 11, direction - down
+At t = 33.0
+queue length : 4
+In queue: event t = 20, client id - 8e66515c-a324-11eb-8153-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 26, client id - 8e66515d-a324-11eb-8959-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 31, client id - 8e66515e-a324-11eb-a8a0-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 33, client id - 8e66515f-a324-11eb-9ff2-842afd1e2d74, client's floor number - 8, direction - Up
+At t = 34.0
+queue length : 4
+In queue: event t = 20, client id - 8e66515c-a324-11eb-8153-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 26, client id - 8e66515d-a324-11eb-8959-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 31, client id - 8e66515e-a324-11eb-a8a0-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 33, client id - 8e66515f-a324-11eb-9ff2-842afd1e2d74, client's floor number - 8, direction - Up
+At t = 35.0
+queue length : 4
+In queue: event t = 20, client id - 8e66515c-a324-11eb-8153-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 26, client id - 8e66515d-a324-11eb-8959-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 31, client id - 8e66515e-a324-11eb-a8a0-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 33, client id - 8e66515f-a324-11eb-9ff2-842afd1e2d74, client's floor number - 8, direction - Up
+At t = 36.0
+queue length : 4
+In queue: event t = 20, client id - 8e66515c-a324-11eb-8153-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 26, client id - 8e66515d-a324-11eb-8959-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 31, client id - 8e66515e-a324-11eb-a8a0-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 33, client id - 8e66515f-a324-11eb-9ff2-842afd1e2d74, client's floor number - 8, direction - Up
+At t = 37.0
+queue length : 4
+In queue: event t = 20, client id - 8e66515c-a324-11eb-8153-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 26, client id - 8e66515d-a324-11eb-8959-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 31, client id - 8e66515e-a324-11eb-a8a0-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 33, client id - 8e66515f-a324-11eb-9ff2-842afd1e2d74, client's floor number - 8, direction - Up
+At t = 38.0
+queue length : 4
+In queue: event t = 20, client id - 8e66515c-a324-11eb-8153-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 26, client id - 8e66515d-a324-11eb-8959-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 31, client id - 8e66515e-a324-11eb-a8a0-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 33, client id - 8e66515f-a324-11eb-9ff2-842afd1e2d74, client's floor number - 8, direction - Up
+At t = 39.0
+queue length : 5
+In queue: event t = 20, client id - 8e66515c-a324-11eb-8153-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 26, client id - 8e66515d-a324-11eb-8959-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 31, client id - 8e66515e-a324-11eb-a8a0-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 33, client id - 8e66515f-a324-11eb-9ff2-842afd1e2d74, client's floor number - 8, direction - Up
+In queue: event t = 39, client id - 8e665160-a324-11eb-a164-842afd1e2d74, client's floor number - 14, direction - Up
+Elevator 1 arrived at floor - 15
+starting to move, elevator's travelling end time 47.4
+At t = 40.0
+queue length : 5
+In queue: event t = 20, client id - 8e66515c-a324-11eb-8153-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 26, client id - 8e66515d-a324-11eb-8959-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 31, client id - 8e66515e-a324-11eb-a8a0-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 33, client id - 8e66515f-a324-11eb-9ff2-842afd1e2d74, client's floor number - 8, direction - Up
+In queue: event t = 39, client id - 8e665160-a324-11eb-a164-842afd1e2d74, client's floor number - 14, direction - Up
+starting to move, elevator's travelling end time 58.900000000000006
+At t = 41.0
+queue length : 4
+In queue: event t = 26, client id - 8e66515d-a324-11eb-8959-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 31, client id - 8e66515e-a324-11eb-a8a0-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 33, client id - 8e66515f-a324-11eb-9ff2-842afd1e2d74, client's floor number - 8, direction - Up
+In queue: event t = 39, client id - 8e665160-a324-11eb-a164-842afd1e2d74, client's floor number - 14, direction - Up
+At t = 42.0
+queue length : 5
+In queue: event t = 26, client id - 8e66515d-a324-11eb-8959-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 31, client id - 8e66515e-a324-11eb-a8a0-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 33, client id - 8e66515f-a324-11eb-9ff2-842afd1e2d74, client's floor number - 8, direction - Up
+In queue: event t = 39, client id - 8e665160-a324-11eb-a164-842afd1e2d74, client's floor number - 14, direction - Up
+In queue: event t = 42, client id - 8e665161-a324-11eb-a6d4-842afd1e2d74, client's floor number - 10, direction - down
+At t = 43.0
+queue length : 5
+In queue: event t = 26, client id - 8e66515d-a324-11eb-8959-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 31, client id - 8e66515e-a324-11eb-a8a0-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 33, client id - 8e66515f-a324-11eb-9ff2-842afd1e2d74, client's floor number - 8, direction - Up
+In queue: event t = 39, client id - 8e665160-a324-11eb-a164-842afd1e2d74, client's floor number - 14, direction - Up
+In queue: event t = 42, client id - 8e665161-a324-11eb-a6d4-842afd1e2d74, client's floor number - 10, direction - down
+At t = 44.0
+queue length : 5
+In queue: event t = 26, client id - 8e66515d-a324-11eb-8959-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 31, client id - 8e66515e-a324-11eb-a8a0-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 33, client id - 8e66515f-a324-11eb-9ff2-842afd1e2d74, client's floor number - 8, direction - Up
+In queue: event t = 39, client id - 8e665160-a324-11eb-a164-842afd1e2d74, client's floor number - 14, direction - Up
+In queue: event t = 42, client id - 8e665161-a324-11eb-a6d4-842afd1e2d74, client's floor number - 10, direction - down
+At t = 45.0
+queue length : 5
+In queue: event t = 26, client id - 8e66515d-a324-11eb-8959-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 31, client id - 8e66515e-a324-11eb-a8a0-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 33, client id - 8e66515f-a324-11eb-9ff2-842afd1e2d74, client's floor number - 8, direction - Up
+In queue: event t = 39, client id - 8e665160-a324-11eb-a164-842afd1e2d74, client's floor number - 14, direction - Up
+In queue: event t = 42, client id - 8e665161-a324-11eb-a6d4-842afd1e2d74, client's floor number - 10, direction - down
+At t = 46.0
+queue length : 5
+In queue: event t = 26, client id - 8e66515d-a324-11eb-8959-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 31, client id - 8e66515e-a324-11eb-a8a0-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 33, client id - 8e66515f-a324-11eb-9ff2-842afd1e2d74, client's floor number - 8, direction - Up
+In queue: event t = 39, client id - 8e665160-a324-11eb-a164-842afd1e2d74, client's floor number - 14, direction - Up
+In queue: event t = 42, client id - 8e665161-a324-11eb-a6d4-842afd1e2d74, client's floor number - 10, direction - down
+At t = 47.0
+queue length : 5
+In queue: event t = 26, client id - 8e66515d-a324-11eb-8959-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 31, client id - 8e66515e-a324-11eb-a8a0-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 33, client id - 8e66515f-a324-11eb-9ff2-842afd1e2d74, client's floor number - 8, direction - Up
+In queue: event t = 39, client id - 8e665160-a324-11eb-a164-842afd1e2d74, client's floor number - 14, direction - Up
+In queue: event t = 42, client id - 8e665161-a324-11eb-a6d4-842afd1e2d74, client's floor number - 10, direction - down
+At t = 48.0
+queue length : 5
+In queue: event t = 26, client id - 8e66515d-a324-11eb-8959-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 31, client id - 8e66515e-a324-11eb-a8a0-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 33, client id - 8e66515f-a324-11eb-9ff2-842afd1e2d74, client's floor number - 8, direction - Up
+In queue: event t = 39, client id - 8e665160-a324-11eb-a164-842afd1e2d74, client's floor number - 14, direction - Up
+In queue: event t = 42, client id - 8e665161-a324-11eb-a6d4-842afd1e2d74, client's floor number - 10, direction - down
+At t = 49.0
+queue length : 5
+In queue: event t = 26, client id - 8e66515d-a324-11eb-8959-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 31, client id - 8e66515e-a324-11eb-a8a0-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 33, client id - 8e66515f-a324-11eb-9ff2-842afd1e2d74, client's floor number - 8, direction - Up
+In queue: event t = 39, client id - 8e665160-a324-11eb-a164-842afd1e2d74, client's floor number - 14, direction - Up
+In queue: event t = 42, client id - 8e665161-a324-11eb-a6d4-842afd1e2d74, client's floor number - 10, direction - down
+starting to move, elevator's travelling end time 59.5
+At t = 50.0
+queue length : 4
+In queue: event t = 31, client id - 8e66515e-a324-11eb-a8a0-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 33, client id - 8e66515f-a324-11eb-9ff2-842afd1e2d74, client's floor number - 8, direction - Up
+In queue: event t = 39, client id - 8e665160-a324-11eb-a164-842afd1e2d74, client's floor number - 14, direction - Up
+In queue: event t = 42, client id - 8e665161-a324-11eb-a6d4-842afd1e2d74, client's floor number - 10, direction - down
+At t = 51.0
+queue length : 4
+In queue: event t = 31, client id - 8e66515e-a324-11eb-a8a0-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 33, client id - 8e66515f-a324-11eb-9ff2-842afd1e2d74, client's floor number - 8, direction - Up
+In queue: event t = 39, client id - 8e665160-a324-11eb-a164-842afd1e2d74, client's floor number - 14, direction - Up
+In queue: event t = 42, client id - 8e665161-a324-11eb-a6d4-842afd1e2d74, client's floor number - 10, direction - down
+At t = 52.0
+queue length : 5
+In queue: event t = 31, client id - 8e66515e-a324-11eb-a8a0-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 33, client id - 8e66515f-a324-11eb-9ff2-842afd1e2d74, client's floor number - 8, direction - Up
+In queue: event t = 39, client id - 8e665160-a324-11eb-a164-842afd1e2d74, client's floor number - 14, direction - Up
+In queue: event t = 42, client id - 8e665161-a324-11eb-a6d4-842afd1e2d74, client's floor number - 10, direction - down
+In queue: event t = 52, client id - 8e665162-a324-11eb-98b8-842afd1e2d74, client's floor number - 18, direction - down
+At t = 53.0
+queue length : 5
+In queue: event t = 31, client id - 8e66515e-a324-11eb-a8a0-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 33, client id - 8e66515f-a324-11eb-9ff2-842afd1e2d74, client's floor number - 8, direction - Up
+In queue: event t = 39, client id - 8e665160-a324-11eb-a164-842afd1e2d74, client's floor number - 14, direction - Up
+In queue: event t = 42, client id - 8e665161-a324-11eb-a6d4-842afd1e2d74, client's floor number - 10, direction - down
+In queue: event t = 52, client id - 8e665162-a324-11eb-98b8-842afd1e2d74, client's floor number - 18, direction - down
+At t = 54.0
+queue length : 5
+In queue: event t = 31, client id - 8e66515e-a324-11eb-a8a0-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 33, client id - 8e66515f-a324-11eb-9ff2-842afd1e2d74, client's floor number - 8, direction - Up
+In queue: event t = 39, client id - 8e665160-a324-11eb-a164-842afd1e2d74, client's floor number - 14, direction - Up
+In queue: event t = 42, client id - 8e665161-a324-11eb-a6d4-842afd1e2d74, client's floor number - 10, direction - down
+In queue: event t = 52, client id - 8e665162-a324-11eb-98b8-842afd1e2d74, client's floor number - 18, direction - down
+At t = 55.0
+queue length : 5
+In queue: event t = 31, client id - 8e66515e-a324-11eb-a8a0-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 33, client id - 8e66515f-a324-11eb-9ff2-842afd1e2d74, client's floor number - 8, direction - Up
+In queue: event t = 39, client id - 8e665160-a324-11eb-a164-842afd1e2d74, client's floor number - 14, direction - Up
+In queue: event t = 42, client id - 8e665161-a324-11eb-a6d4-842afd1e2d74, client's floor number - 10, direction - down
+In queue: event t = 52, client id - 8e665162-a324-11eb-98b8-842afd1e2d74, client's floor number - 18, direction - down
+At t = 56.0
+queue length : 5
+In queue: event t = 31, client id - 8e66515e-a324-11eb-a8a0-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 33, client id - 8e66515f-a324-11eb-9ff2-842afd1e2d74, client's floor number - 8, direction - Up
+In queue: event t = 39, client id - 8e665160-a324-11eb-a164-842afd1e2d74, client's floor number - 14, direction - Up
+In queue: event t = 42, client id - 8e665161-a324-11eb-a6d4-842afd1e2d74, client's floor number - 10, direction - down
+In queue: event t = 52, client id - 8e665162-a324-11eb-98b8-842afd1e2d74, client's floor number - 18, direction - down
+At t = 57.0
+queue length : 5
+In queue: event t = 31, client id - 8e66515e-a324-11eb-a8a0-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 33, client id - 8e66515f-a324-11eb-9ff2-842afd1e2d74, client's floor number - 8, direction - Up
+In queue: event t = 39, client id - 8e665160-a324-11eb-a164-842afd1e2d74, client's floor number - 14, direction - Up
+In queue: event t = 42, client id - 8e665161-a324-11eb-a6d4-842afd1e2d74, client's floor number - 10, direction - down
+In queue: event t = 52, client id - 8e665162-a324-11eb-98b8-842afd1e2d74, client's floor number - 18, direction - down
+At t = 58.0
+queue length : 5
+In queue: event t = 31, client id - 8e66515e-a324-11eb-a8a0-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 33, client id - 8e66515f-a324-11eb-9ff2-842afd1e2d74, client's floor number - 8, direction - Up
+In queue: event t = 39, client id - 8e665160-a324-11eb-a164-842afd1e2d74, client's floor number - 14, direction - Up
+In queue: event t = 42, client id - 8e665161-a324-11eb-a6d4-842afd1e2d74, client's floor number - 10, direction - down
+In queue: event t = 52, client id - 8e665162-a324-11eb-98b8-842afd1e2d74, client's floor number - 18, direction - down
+At t = 59.0
+queue length : 6
+In queue: event t = 31, client id - 8e66515e-a324-11eb-a8a0-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 33, client id - 8e66515f-a324-11eb-9ff2-842afd1e2d74, client's floor number - 8, direction - Up
+In queue: event t = 39, client id - 8e665160-a324-11eb-a164-842afd1e2d74, client's floor number - 14, direction - Up
+In queue: event t = 42, client id - 8e665161-a324-11eb-a6d4-842afd1e2d74, client's floor number - 10, direction - down
+In queue: event t = 52, client id - 8e665162-a324-11eb-98b8-842afd1e2d74, client's floor number - 18, direction - down
+In queue: event t = 59, client id - 8e665163-a324-11eb-9ddd-842afd1e2d74, client's floor number - 6, direction - Up
+Elevator 2 arrived at floor - 13
+starting to move, elevator's travelling end time 67.4
+At t = 60.0
+queue length : 6
+In queue: event t = 31, client id - 8e66515e-a324-11eb-a8a0-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 33, client id - 8e66515f-a324-11eb-9ff2-842afd1e2d74, client's floor number - 8, direction - Up
+In queue: event t = 39, client id - 8e665160-a324-11eb-a164-842afd1e2d74, client's floor number - 14, direction - Up
+In queue: event t = 42, client id - 8e665161-a324-11eb-a6d4-842afd1e2d74, client's floor number - 10, direction - down
+In queue: event t = 52, client id - 8e665162-a324-11eb-98b8-842afd1e2d74, client's floor number - 18, direction - down
+In queue: event t = 59, client id - 8e665163-a324-11eb-9ddd-842afd1e2d74, client's floor number - 6, direction - Up
+Elevator 1 arrived at floor - 6
+starting to move, elevator's travelling end time 64.2
+At t = 61.0
+queue length : 7
+In queue: event t = 31, client id - 8e66515e-a324-11eb-a8a0-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 33, client id - 8e66515f-a324-11eb-9ff2-842afd1e2d74, client's floor number - 8, direction - Up
+In queue: event t = 39, client id - 8e665160-a324-11eb-a164-842afd1e2d74, client's floor number - 14, direction - Up
+In queue: event t = 42, client id - 8e665161-a324-11eb-a6d4-842afd1e2d74, client's floor number - 10, direction - down
+In queue: event t = 52, client id - 8e665162-a324-11eb-98b8-842afd1e2d74, client's floor number - 18, direction - down
+In queue: event t = 59, client id - 8e665163-a324-11eb-9ddd-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 61, client id - 8e665164-a324-11eb-8304-842afd1e2d74, client's floor number - 13, direction - Up
+At t = 62.0
+queue length : 7
+In queue: event t = 31, client id - 8e66515e-a324-11eb-a8a0-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 33, client id - 8e66515f-a324-11eb-9ff2-842afd1e2d74, client's floor number - 8, direction - Up
+In queue: event t = 39, client id - 8e665160-a324-11eb-a164-842afd1e2d74, client's floor number - 14, direction - Up
+In queue: event t = 42, client id - 8e665161-a324-11eb-a6d4-842afd1e2d74, client's floor number - 10, direction - down
+In queue: event t = 52, client id - 8e665162-a324-11eb-98b8-842afd1e2d74, client's floor number - 18, direction - down
+In queue: event t = 59, client id - 8e665163-a324-11eb-9ddd-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 61, client id - 8e665164-a324-11eb-8304-842afd1e2d74, client's floor number - 13, direction - Up
+At t = 63.0
+queue length : 7
+In queue: event t = 31, client id - 8e66515e-a324-11eb-a8a0-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 33, client id - 8e66515f-a324-11eb-9ff2-842afd1e2d74, client's floor number - 8, direction - Up
+In queue: event t = 39, client id - 8e665160-a324-11eb-a164-842afd1e2d74, client's floor number - 14, direction - Up
+In queue: event t = 42, client id - 8e665161-a324-11eb-a6d4-842afd1e2d74, client's floor number - 10, direction - down
+In queue: event t = 52, client id - 8e665162-a324-11eb-98b8-842afd1e2d74, client's floor number - 18, direction - down
+In queue: event t = 59, client id - 8e665163-a324-11eb-9ddd-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 61, client id - 8e665164-a324-11eb-8304-842afd1e2d74, client's floor number - 13, direction - Up
+At t = 64.0
+queue length : 7
+In queue: event t = 31, client id - 8e66515e-a324-11eb-a8a0-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 33, client id - 8e66515f-a324-11eb-9ff2-842afd1e2d74, client's floor number - 8, direction - Up
+In queue: event t = 39, client id - 8e665160-a324-11eb-a164-842afd1e2d74, client's floor number - 14, direction - Up
+In queue: event t = 42, client id - 8e665161-a324-11eb-a6d4-842afd1e2d74, client's floor number - 10, direction - down
+In queue: event t = 52, client id - 8e665162-a324-11eb-98b8-842afd1e2d74, client's floor number - 18, direction - down
+In queue: event t = 59, client id - 8e665163-a324-11eb-9ddd-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 61, client id - 8e665164-a324-11eb-8304-842afd1e2d74, client's floor number - 13, direction - Up
+At t = 65.0
+queue length : 7
+In queue: event t = 31, client id - 8e66515e-a324-11eb-a8a0-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 33, client id - 8e66515f-a324-11eb-9ff2-842afd1e2d74, client's floor number - 8, direction - Up
+In queue: event t = 39, client id - 8e665160-a324-11eb-a164-842afd1e2d74, client's floor number - 14, direction - Up
+In queue: event t = 42, client id - 8e665161-a324-11eb-a6d4-842afd1e2d74, client's floor number - 10, direction - down
+In queue: event t = 52, client id - 8e665162-a324-11eb-98b8-842afd1e2d74, client's floor number - 18, direction - down
+In queue: event t = 59, client id - 8e665163-a324-11eb-9ddd-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 61, client id - 8e665164-a324-11eb-8304-842afd1e2d74, client's floor number - 13, direction - Up
+At t = 66.0
+queue length : 7
+In queue: event t = 31, client id - 8e66515e-a324-11eb-a8a0-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 33, client id - 8e66515f-a324-11eb-9ff2-842afd1e2d74, client's floor number - 8, direction - Up
+In queue: event t = 39, client id - 8e665160-a324-11eb-a164-842afd1e2d74, client's floor number - 14, direction - Up
+In queue: event t = 42, client id - 8e665161-a324-11eb-a6d4-842afd1e2d74, client's floor number - 10, direction - down
+In queue: event t = 52, client id - 8e665162-a324-11eb-98b8-842afd1e2d74, client's floor number - 18, direction - down
+In queue: event t = 59, client id - 8e665163-a324-11eb-9ddd-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 61, client id - 8e665164-a324-11eb-8304-842afd1e2d74, client's floor number - 13, direction - Up
+starting to move, elevator's travelling end time 72.3
+At t = 67.0
+queue length : 6
+In queue: event t = 33, client id - 8e66515f-a324-11eb-9ff2-842afd1e2d74, client's floor number - 8, direction - Up
+In queue: event t = 39, client id - 8e665160-a324-11eb-a164-842afd1e2d74, client's floor number - 14, direction - Up
+In queue: event t = 42, client id - 8e665161-a324-11eb-a6d4-842afd1e2d74, client's floor number - 10, direction - down
+In queue: event t = 52, client id - 8e665162-a324-11eb-98b8-842afd1e2d74, client's floor number - 18, direction - down
+In queue: event t = 59, client id - 8e665163-a324-11eb-9ddd-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 61, client id - 8e665164-a324-11eb-8304-842afd1e2d74, client's floor number - 13, direction - Up
+At t = 68.0
+queue length : 6
+In queue: event t = 33, client id - 8e66515f-a324-11eb-9ff2-842afd1e2d74, client's floor number - 8, direction - Up
+In queue: event t = 39, client id - 8e665160-a324-11eb-a164-842afd1e2d74, client's floor number - 14, direction - Up
+In queue: event t = 42, client id - 8e665161-a324-11eb-a6d4-842afd1e2d74, client's floor number - 10, direction - down
+In queue: event t = 52, client id - 8e665162-a324-11eb-98b8-842afd1e2d74, client's floor number - 18, direction - down
+In queue: event t = 59, client id - 8e665163-a324-11eb-9ddd-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 61, client id - 8e665164-a324-11eb-8304-842afd1e2d74, client's floor number - 13, direction - Up
+At t = 69.0
+queue length : 6
+In queue: event t = 33, client id - 8e66515f-a324-11eb-9ff2-842afd1e2d74, client's floor number - 8, direction - Up
+In queue: event t = 39, client id - 8e665160-a324-11eb-a164-842afd1e2d74, client's floor number - 14, direction - Up
+In queue: event t = 42, client id - 8e665161-a324-11eb-a6d4-842afd1e2d74, client's floor number - 10, direction - down
+In queue: event t = 52, client id - 8e665162-a324-11eb-98b8-842afd1e2d74, client's floor number - 18, direction - down
+In queue: event t = 59, client id - 8e665163-a324-11eb-9ddd-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 61, client id - 8e665164-a324-11eb-8304-842afd1e2d74, client's floor number - 13, direction - Up
+starting to move, elevator's travelling end time 71.1
+At t = 70.0
+queue length : 6
+In queue: event t = 39, client id - 8e665160-a324-11eb-a164-842afd1e2d74, client's floor number - 14, direction - Up
+In queue: event t = 42, client id - 8e665161-a324-11eb-a6d4-842afd1e2d74, client's floor number - 10, direction - down
+In queue: event t = 52, client id - 8e665162-a324-11eb-98b8-842afd1e2d74, client's floor number - 18, direction - down
+In queue: event t = 59, client id - 8e665163-a324-11eb-9ddd-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 61, client id - 8e665164-a324-11eb-8304-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 70, client id - 8e665165-a324-11eb-b357-842afd1e2d74, client's floor number - 13, direction - down
+At t = 71.0
+queue length : 6
+In queue: event t = 39, client id - 8e665160-a324-11eb-a164-842afd1e2d74, client's floor number - 14, direction - Up
+In queue: event t = 42, client id - 8e665161-a324-11eb-a6d4-842afd1e2d74, client's floor number - 10, direction - down
+In queue: event t = 52, client id - 8e665162-a324-11eb-98b8-842afd1e2d74, client's floor number - 18, direction - down
+In queue: event t = 59, client id - 8e665163-a324-11eb-9ddd-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 61, client id - 8e665164-a324-11eb-8304-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 70, client id - 8e665165-a324-11eb-b357-842afd1e2d74, client's floor number - 13, direction - down
+At t = 72.0
+queue length : 7
+In queue: event t = 39, client id - 8e665160-a324-11eb-a164-842afd1e2d74, client's floor number - 14, direction - Up
+In queue: event t = 42, client id - 8e665161-a324-11eb-a6d4-842afd1e2d74, client's floor number - 10, direction - down
+In queue: event t = 52, client id - 8e665162-a324-11eb-98b8-842afd1e2d74, client's floor number - 18, direction - down
+In queue: event t = 59, client id - 8e665163-a324-11eb-9ddd-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 61, client id - 8e665164-a324-11eb-8304-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 70, client id - 8e665165-a324-11eb-b357-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+Elevator 2 arrived at floor - 8
+starting to move, elevator's travelling end time 76.2
+At t = 73.0
+queue length : 7
+In queue: event t = 39, client id - 8e665160-a324-11eb-a164-842afd1e2d74, client's floor number - 14, direction - Up
+In queue: event t = 42, client id - 8e665161-a324-11eb-a6d4-842afd1e2d74, client's floor number - 10, direction - down
+In queue: event t = 52, client id - 8e665162-a324-11eb-98b8-842afd1e2d74, client's floor number - 18, direction - down
+In queue: event t = 59, client id - 8e665163-a324-11eb-9ddd-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 61, client id - 8e665164-a324-11eb-8304-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 70, client id - 8e665165-a324-11eb-b357-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+Elevator 1 arrived at floor - 11
+starting to move, elevator's travelling end time 87.7
+At t = 74.0
+queue length : 7
+In queue: event t = 39, client id - 8e665160-a324-11eb-a164-842afd1e2d74, client's floor number - 14, direction - Up
+In queue: event t = 42, client id - 8e665161-a324-11eb-a6d4-842afd1e2d74, client's floor number - 10, direction - down
+In queue: event t = 52, client id - 8e665162-a324-11eb-98b8-842afd1e2d74, client's floor number - 18, direction - down
+In queue: event t = 59, client id - 8e665163-a324-11eb-9ddd-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 61, client id - 8e665164-a324-11eb-8304-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 70, client id - 8e665165-a324-11eb-b357-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+At t = 75.0
+queue length : 7
+In queue: event t = 39, client id - 8e665160-a324-11eb-a164-842afd1e2d74, client's floor number - 14, direction - Up
+In queue: event t = 42, client id - 8e665161-a324-11eb-a6d4-842afd1e2d74, client's floor number - 10, direction - down
+In queue: event t = 52, client id - 8e665162-a324-11eb-98b8-842afd1e2d74, client's floor number - 18, direction - down
+In queue: event t = 59, client id - 8e665163-a324-11eb-9ddd-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 61, client id - 8e665164-a324-11eb-8304-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 70, client id - 8e665165-a324-11eb-b357-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+At t = 76.0
+queue length : 7
+In queue: event t = 39, client id - 8e665160-a324-11eb-a164-842afd1e2d74, client's floor number - 14, direction - Up
+In queue: event t = 42, client id - 8e665161-a324-11eb-a6d4-842afd1e2d74, client's floor number - 10, direction - down
+In queue: event t = 52, client id - 8e665162-a324-11eb-98b8-842afd1e2d74, client's floor number - 18, direction - down
+In queue: event t = 59, client id - 8e665163-a324-11eb-9ddd-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 61, client id - 8e665164-a324-11eb-8304-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 70, client id - 8e665165-a324-11eb-b357-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+At t = 77.0
+queue length : 7
+In queue: event t = 39, client id - 8e665160-a324-11eb-a164-842afd1e2d74, client's floor number - 14, direction - Up
+In queue: event t = 42, client id - 8e665161-a324-11eb-a6d4-842afd1e2d74, client's floor number - 10, direction - down
+In queue: event t = 52, client id - 8e665162-a324-11eb-98b8-842afd1e2d74, client's floor number - 18, direction - down
+In queue: event t = 59, client id - 8e665163-a324-11eb-9ddd-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 61, client id - 8e665164-a324-11eb-8304-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 70, client id - 8e665165-a324-11eb-b357-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+At t = 78.0
+queue length : 7
+In queue: event t = 39, client id - 8e665160-a324-11eb-a164-842afd1e2d74, client's floor number - 14, direction - Up
+In queue: event t = 42, client id - 8e665161-a324-11eb-a6d4-842afd1e2d74, client's floor number - 10, direction - down
+In queue: event t = 52, client id - 8e665162-a324-11eb-98b8-842afd1e2d74, client's floor number - 18, direction - down
+In queue: event t = 59, client id - 8e665163-a324-11eb-9ddd-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 61, client id - 8e665164-a324-11eb-8304-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 70, client id - 8e665165-a324-11eb-b357-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+starting to move, elevator's travelling end time 86.4
+At t = 79.0
+queue length : 6
+In queue: event t = 42, client id - 8e665161-a324-11eb-a6d4-842afd1e2d74, client's floor number - 10, direction - down
+In queue: event t = 52, client id - 8e665162-a324-11eb-98b8-842afd1e2d74, client's floor number - 18, direction - down
+In queue: event t = 59, client id - 8e665163-a324-11eb-9ddd-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 61, client id - 8e665164-a324-11eb-8304-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 70, client id - 8e665165-a324-11eb-b357-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+At t = 80.0
+queue length : 6
+In queue: event t = 42, client id - 8e665161-a324-11eb-a6d4-842afd1e2d74, client's floor number - 10, direction - down
+In queue: event t = 52, client id - 8e665162-a324-11eb-98b8-842afd1e2d74, client's floor number - 18, direction - down
+In queue: event t = 59, client id - 8e665163-a324-11eb-9ddd-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 61, client id - 8e665164-a324-11eb-8304-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 70, client id - 8e665165-a324-11eb-b357-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+At t = 81.0
+queue length : 6
+In queue: event t = 42, client id - 8e665161-a324-11eb-a6d4-842afd1e2d74, client's floor number - 10, direction - down
+In queue: event t = 52, client id - 8e665162-a324-11eb-98b8-842afd1e2d74, client's floor number - 18, direction - down
+In queue: event t = 59, client id - 8e665163-a324-11eb-9ddd-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 61, client id - 8e665164-a324-11eb-8304-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 70, client id - 8e665165-a324-11eb-b357-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+At t = 82.0
+queue length : 7
+In queue: event t = 42, client id - 8e665161-a324-11eb-a6d4-842afd1e2d74, client's floor number - 10, direction - down
+In queue: event t = 52, client id - 8e665162-a324-11eb-98b8-842afd1e2d74, client's floor number - 18, direction - down
+In queue: event t = 59, client id - 8e665163-a324-11eb-9ddd-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 61, client id - 8e665164-a324-11eb-8304-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 70, client id - 8e665165-a324-11eb-b357-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+At t = 83.0
+queue length : 7
+In queue: event t = 42, client id - 8e665161-a324-11eb-a6d4-842afd1e2d74, client's floor number - 10, direction - down
+In queue: event t = 52, client id - 8e665162-a324-11eb-98b8-842afd1e2d74, client's floor number - 18, direction - down
+In queue: event t = 59, client id - 8e665163-a324-11eb-9ddd-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 61, client id - 8e665164-a324-11eb-8304-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 70, client id - 8e665165-a324-11eb-b357-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+At t = 84.0
+queue length : 7
+In queue: event t = 42, client id - 8e665161-a324-11eb-a6d4-842afd1e2d74, client's floor number - 10, direction - down
+In queue: event t = 52, client id - 8e665162-a324-11eb-98b8-842afd1e2d74, client's floor number - 18, direction - down
+In queue: event t = 59, client id - 8e665163-a324-11eb-9ddd-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 61, client id - 8e665164-a324-11eb-8304-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 70, client id - 8e665165-a324-11eb-b357-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+At t = 85.0
+queue length : 7
+In queue: event t = 42, client id - 8e665161-a324-11eb-a6d4-842afd1e2d74, client's floor number - 10, direction - down
+In queue: event t = 52, client id - 8e665162-a324-11eb-98b8-842afd1e2d74, client's floor number - 18, direction - down
+In queue: event t = 59, client id - 8e665163-a324-11eb-9ddd-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 61, client id - 8e665164-a324-11eb-8304-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 70, client id - 8e665165-a324-11eb-b357-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+At t = 86.0
+queue length : 7
+In queue: event t = 42, client id - 8e665161-a324-11eb-a6d4-842afd1e2d74, client's floor number - 10, direction - down
+In queue: event t = 52, client id - 8e665162-a324-11eb-98b8-842afd1e2d74, client's floor number - 18, direction - down
+In queue: event t = 59, client id - 8e665163-a324-11eb-9ddd-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 61, client id - 8e665164-a324-11eb-8304-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 70, client id - 8e665165-a324-11eb-b357-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+At t = 87.0
+queue length : 7
+In queue: event t = 42, client id - 8e665161-a324-11eb-a6d4-842afd1e2d74, client's floor number - 10, direction - down
+In queue: event t = 52, client id - 8e665162-a324-11eb-98b8-842afd1e2d74, client's floor number - 18, direction - down
+In queue: event t = 59, client id - 8e665163-a324-11eb-9ddd-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 61, client id - 8e665164-a324-11eb-8304-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 70, client id - 8e665165-a324-11eb-b357-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+Elevator 2 arrived at floor - 14
+starting to move, elevator's travelling end time 95.4
+At t = 88.0
+queue length : 7
+In queue: event t = 42, client id - 8e665161-a324-11eb-a6d4-842afd1e2d74, client's floor number - 10, direction - down
+In queue: event t = 52, client id - 8e665162-a324-11eb-98b8-842afd1e2d74, client's floor number - 18, direction - down
+In queue: event t = 59, client id - 8e665163-a324-11eb-9ddd-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 61, client id - 8e665164-a324-11eb-8304-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 70, client id - 8e665165-a324-11eb-b357-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+At t = 89.0
+queue length : 7
+In queue: event t = 42, client id - 8e665161-a324-11eb-a6d4-842afd1e2d74, client's floor number - 10, direction - down
+In queue: event t = 52, client id - 8e665162-a324-11eb-98b8-842afd1e2d74, client's floor number - 18, direction - down
+In queue: event t = 59, client id - 8e665163-a324-11eb-9ddd-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 61, client id - 8e665164-a324-11eb-8304-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 70, client id - 8e665165-a324-11eb-b357-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+starting to move, elevator's travelling end time 105.8
+At t = 90.0
+queue length : 7
+In queue: event t = 52, client id - 8e665162-a324-11eb-98b8-842afd1e2d74, client's floor number - 18, direction - down
+In queue: event t = 59, client id - 8e665163-a324-11eb-9ddd-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 61, client id - 8e665164-a324-11eb-8304-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 70, client id - 8e665165-a324-11eb-b357-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 90, client id - 8e665168-a324-11eb-9bb2-842afd1e2d74, client's floor number - 1, direction - Up
+At t = 91.0
+queue length : 7
+In queue: event t = 52, client id - 8e665162-a324-11eb-98b8-842afd1e2d74, client's floor number - 18, direction - down
+In queue: event t = 59, client id - 8e665163-a324-11eb-9ddd-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 61, client id - 8e665164-a324-11eb-8304-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 70, client id - 8e665165-a324-11eb-b357-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 90, client id - 8e665168-a324-11eb-9bb2-842afd1e2d74, client's floor number - 1, direction - Up
+At t = 92.0
+queue length : 7
+In queue: event t = 52, client id - 8e665162-a324-11eb-98b8-842afd1e2d74, client's floor number - 18, direction - down
+In queue: event t = 59, client id - 8e665163-a324-11eb-9ddd-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 61, client id - 8e665164-a324-11eb-8304-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 70, client id - 8e665165-a324-11eb-b357-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 90, client id - 8e665168-a324-11eb-9bb2-842afd1e2d74, client's floor number - 1, direction - Up
+At t = 93.0
+queue length : 7
+In queue: event t = 52, client id - 8e665162-a324-11eb-98b8-842afd1e2d74, client's floor number - 18, direction - down
+In queue: event t = 59, client id - 8e665163-a324-11eb-9ddd-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 61, client id - 8e665164-a324-11eb-8304-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 70, client id - 8e665165-a324-11eb-b357-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 90, client id - 8e665168-a324-11eb-9bb2-842afd1e2d74, client's floor number - 1, direction - Up
+At t = 94.0
+queue length : 7
+In queue: event t = 52, client id - 8e665162-a324-11eb-98b8-842afd1e2d74, client's floor number - 18, direction - down
+In queue: event t = 59, client id - 8e665163-a324-11eb-9ddd-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 61, client id - 8e665164-a324-11eb-8304-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 70, client id - 8e665165-a324-11eb-b357-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 90, client id - 8e665168-a324-11eb-9bb2-842afd1e2d74, client's floor number - 1, direction - Up
+At t = 95.0
+queue length : 7
+In queue: event t = 52, client id - 8e665162-a324-11eb-98b8-842afd1e2d74, client's floor number - 18, direction - down
+In queue: event t = 59, client id - 8e665163-a324-11eb-9ddd-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 61, client id - 8e665164-a324-11eb-8304-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 70, client id - 8e665165-a324-11eb-b357-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 90, client id - 8e665168-a324-11eb-9bb2-842afd1e2d74, client's floor number - 1, direction - Up
+At t = 96.0
+queue length : 7
+In queue: event t = 52, client id - 8e665162-a324-11eb-98b8-842afd1e2d74, client's floor number - 18, direction - down
+In queue: event t = 59, client id - 8e665163-a324-11eb-9ddd-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 61, client id - 8e665164-a324-11eb-8304-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 70, client id - 8e665165-a324-11eb-b357-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 90, client id - 8e665168-a324-11eb-9bb2-842afd1e2d74, client's floor number - 1, direction - Up
+At t = 97.0
+queue length : 7
+In queue: event t = 52, client id - 8e665162-a324-11eb-98b8-842afd1e2d74, client's floor number - 18, direction - down
+In queue: event t = 59, client id - 8e665163-a324-11eb-9ddd-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 61, client id - 8e665164-a324-11eb-8304-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 70, client id - 8e665165-a324-11eb-b357-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 90, client id - 8e665168-a324-11eb-9bb2-842afd1e2d74, client's floor number - 1, direction - Up
+starting to move, elevator's travelling end time 97.0
+Elevator 2 arrived at floor - 18
+starting to move, elevator's travelling end time 120.1
+At t = 98.0
+queue length : 7
+In queue: event t = 59, client id - 8e665163-a324-11eb-9ddd-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 61, client id - 8e665164-a324-11eb-8304-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 70, client id - 8e665165-a324-11eb-b357-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 90, client id - 8e665168-a324-11eb-9bb2-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+At t = 99.0
+queue length : 7
+In queue: event t = 59, client id - 8e665163-a324-11eb-9ddd-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 61, client id - 8e665164-a324-11eb-8304-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 70, client id - 8e665165-a324-11eb-b357-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 90, client id - 8e665168-a324-11eb-9bb2-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+At t = 100.0
+queue length : 7
+In queue: event t = 59, client id - 8e665163-a324-11eb-9ddd-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 61, client id - 8e665164-a324-11eb-8304-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 70, client id - 8e665165-a324-11eb-b357-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 90, client id - 8e665168-a324-11eb-9bb2-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+At t = 101.0
+queue length : 7
+In queue: event t = 59, client id - 8e665163-a324-11eb-9ddd-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 61, client id - 8e665164-a324-11eb-8304-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 70, client id - 8e665165-a324-11eb-b357-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 90, client id - 8e665168-a324-11eb-9bb2-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+At t = 102.0
+queue length : 7
+In queue: event t = 59, client id - 8e665163-a324-11eb-9ddd-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 61, client id - 8e665164-a324-11eb-8304-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 70, client id - 8e665165-a324-11eb-b357-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 90, client id - 8e665168-a324-11eb-9bb2-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+At t = 103.0
+queue length : 7
+In queue: event t = 59, client id - 8e665163-a324-11eb-9ddd-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 61, client id - 8e665164-a324-11eb-8304-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 70, client id - 8e665165-a324-11eb-b357-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 90, client id - 8e665168-a324-11eb-9bb2-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+At t = 104.0
+queue length : 7
+In queue: event t = 59, client id - 8e665163-a324-11eb-9ddd-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 61, client id - 8e665164-a324-11eb-8304-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 70, client id - 8e665165-a324-11eb-b357-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 90, client id - 8e665168-a324-11eb-9bb2-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+At t = 105.0
+queue length : 7
+In queue: event t = 59, client id - 8e665163-a324-11eb-9ddd-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 61, client id - 8e665164-a324-11eb-8304-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 70, client id - 8e665165-a324-11eb-b357-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 90, client id - 8e665168-a324-11eb-9bb2-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+At t = 106.0
+queue length : 7
+In queue: event t = 59, client id - 8e665163-a324-11eb-9ddd-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 61, client id - 8e665164-a324-11eb-8304-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 70, client id - 8e665165-a324-11eb-b357-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 90, client id - 8e665168-a324-11eb-9bb2-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+Elevator 1 arrived at floor - 10
+starting to move, elevator's travelling end time 112.3
+At t = 107.0
+queue length : 8
+In queue: event t = 59, client id - 8e665163-a324-11eb-9ddd-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 61, client id - 8e665164-a324-11eb-8304-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 70, client id - 8e665165-a324-11eb-b357-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 90, client id - 8e665168-a324-11eb-9bb2-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+At t = 108.0
+queue length : 8
+In queue: event t = 59, client id - 8e665163-a324-11eb-9ddd-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 61, client id - 8e665164-a324-11eb-8304-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 70, client id - 8e665165-a324-11eb-b357-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 90, client id - 8e665168-a324-11eb-9bb2-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+At t = 109.0
+queue length : 8
+In queue: event t = 59, client id - 8e665163-a324-11eb-9ddd-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 61, client id - 8e665164-a324-11eb-8304-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 70, client id - 8e665165-a324-11eb-b357-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 90, client id - 8e665168-a324-11eb-9bb2-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+At t = 110.0
+queue length : 8
+In queue: event t = 59, client id - 8e665163-a324-11eb-9ddd-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 61, client id - 8e665164-a324-11eb-8304-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 70, client id - 8e665165-a324-11eb-b357-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 90, client id - 8e665168-a324-11eb-9bb2-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+At t = 111.0
+queue length : 8
+In queue: event t = 59, client id - 8e665163-a324-11eb-9ddd-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 61, client id - 8e665164-a324-11eb-8304-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 70, client id - 8e665165-a324-11eb-b357-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 90, client id - 8e665168-a324-11eb-9bb2-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+At t = 112.0
+queue length : 8
+In queue: event t = 59, client id - 8e665163-a324-11eb-9ddd-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 61, client id - 8e665164-a324-11eb-8304-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 70, client id - 8e665165-a324-11eb-b357-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 90, client id - 8e665168-a324-11eb-9bb2-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+At t = 113.0
+queue length : 8
+In queue: event t = 59, client id - 8e665163-a324-11eb-9ddd-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 61, client id - 8e665164-a324-11eb-8304-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 70, client id - 8e665165-a324-11eb-b357-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 90, client id - 8e665168-a324-11eb-9bb2-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+At t = 114.0
+queue length : 8
+In queue: event t = 59, client id - 8e665163-a324-11eb-9ddd-842afd1e2d74, client's floor number - 6, direction - Up
+In queue: event t = 61, client id - 8e665164-a324-11eb-8304-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 70, client id - 8e665165-a324-11eb-b357-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 90, client id - 8e665168-a324-11eb-9bb2-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+starting to move, elevator's travelling end time 116.1
+At t = 115.0
+queue length : 7
+In queue: event t = 61, client id - 8e665164-a324-11eb-8304-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 70, client id - 8e665165-a324-11eb-b357-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 90, client id - 8e665168-a324-11eb-9bb2-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+At t = 116.0
+queue length : 7
+In queue: event t = 61, client id - 8e665164-a324-11eb-8304-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 70, client id - 8e665165-a324-11eb-b357-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 90, client id - 8e665168-a324-11eb-9bb2-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+At t = 117.0
+queue length : 8
+In queue: event t = 61, client id - 8e665164-a324-11eb-8304-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 70, client id - 8e665165-a324-11eb-b357-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 90, client id - 8e665168-a324-11eb-9bb2-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+Elevator 1 arrived at floor - 6
+starting to move, elevator's travelling end time 131.7
+At t = 118.0
+queue length : 8
+In queue: event t = 61, client id - 8e665164-a324-11eb-8304-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 70, client id - 8e665165-a324-11eb-b357-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 90, client id - 8e665168-a324-11eb-9bb2-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+At t = 119.0
+queue length : 8
+In queue: event t = 61, client id - 8e665164-a324-11eb-8304-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 70, client id - 8e665165-a324-11eb-b357-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 90, client id - 8e665168-a324-11eb-9bb2-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+At t = 120.0
+queue length : 8
+In queue: event t = 61, client id - 8e665164-a324-11eb-8304-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 70, client id - 8e665165-a324-11eb-b357-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 90, client id - 8e665168-a324-11eb-9bb2-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+At t = 121.0
+queue length : 8
+In queue: event t = 61, client id - 8e665164-a324-11eb-8304-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 70, client id - 8e665165-a324-11eb-b357-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 90, client id - 8e665168-a324-11eb-9bb2-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+At t = 122.0
+queue length : 8
+In queue: event t = 61, client id - 8e665164-a324-11eb-8304-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 70, client id - 8e665165-a324-11eb-b357-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 90, client id - 8e665168-a324-11eb-9bb2-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+starting to move, elevator's travelling end time 134.6
+At t = 123.0
+queue length : 7
+In queue: event t = 70, client id - 8e665165-a324-11eb-b357-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 90, client id - 8e665168-a324-11eb-9bb2-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+At t = 124.0
+queue length : 7
+In queue: event t = 70, client id - 8e665165-a324-11eb-b357-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 90, client id - 8e665168-a324-11eb-9bb2-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+At t = 125.0
+queue length : 8
+In queue: event t = 70, client id - 8e665165-a324-11eb-b357-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 90, client id - 8e665168-a324-11eb-9bb2-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+At t = 126.0
+queue length : 8
+In queue: event t = 70, client id - 8e665165-a324-11eb-b357-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 90, client id - 8e665168-a324-11eb-9bb2-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+At t = 127.0
+queue length : 8
+In queue: event t = 70, client id - 8e665165-a324-11eb-b357-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 90, client id - 8e665168-a324-11eb-9bb2-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+At t = 128.0
+queue length : 8
+In queue: event t = 70, client id - 8e665165-a324-11eb-b357-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 90, client id - 8e665168-a324-11eb-9bb2-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+At t = 129.0
+queue length : 8
+In queue: event t = 70, client id - 8e665165-a324-11eb-b357-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 90, client id - 8e665168-a324-11eb-9bb2-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+At t = 130.0
+queue length : 8
+In queue: event t = 70, client id - 8e665165-a324-11eb-b357-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 90, client id - 8e665168-a324-11eb-9bb2-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+At t = 131.0
+queue length : 8
+In queue: event t = 70, client id - 8e665165-a324-11eb-b357-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 90, client id - 8e665168-a324-11eb-9bb2-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+At t = 132.0
+queue length : 9
+In queue: event t = 70, client id - 8e665165-a324-11eb-b357-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 90, client id - 8e665168-a324-11eb-9bb2-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 133.0
+queue length : 9
+In queue: event t = 70, client id - 8e665165-a324-11eb-b357-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 90, client id - 8e665168-a324-11eb-9bb2-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+starting to move, elevator's travelling end time 133.0
+Elevator 1 arrived at floor - 13
+starting to move, elevator's travelling end time 139.3
+At t = 134.0
+queue length : 8
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 90, client id - 8e665168-a324-11eb-9bb2-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 135.0
+queue length : 8
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 90, client id - 8e665168-a324-11eb-9bb2-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+Elevator 2 arrived at floor - 13
+starting to move, elevator's travelling end time 156.0
+At t = 136.0
+queue length : 8
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 90, client id - 8e665168-a324-11eb-9bb2-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 137.0
+queue length : 8
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 90, client id - 8e665168-a324-11eb-9bb2-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 138.0
+queue length : 8
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 90, client id - 8e665168-a324-11eb-9bb2-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 139.0
+queue length : 8
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 90, client id - 8e665168-a324-11eb-9bb2-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 140.0
+queue length : 8
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 90, client id - 8e665168-a324-11eb-9bb2-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 141.0
+queue length : 8
+In queue: event t = 72, client id - 8e665166-a324-11eb-9c12-842afd1e2d74, client's floor number - 13, direction - down
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 90, client id - 8e665168-a324-11eb-9bb2-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+starting to move, elevator's travelling end time 147.3
+At t = 142.0
+queue length : 7
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 90, client id - 8e665168-a324-11eb-9bb2-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 143.0
+queue length : 7
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 90, client id - 8e665168-a324-11eb-9bb2-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 144.0
+queue length : 7
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 90, client id - 8e665168-a324-11eb-9bb2-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 145.0
+queue length : 7
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 90, client id - 8e665168-a324-11eb-9bb2-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 146.0
+queue length : 7
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 90, client id - 8e665168-a324-11eb-9bb2-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 147.0
+queue length : 7
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 90, client id - 8e665168-a324-11eb-9bb2-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 148.0
+queue length : 7
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 90, client id - 8e665168-a324-11eb-9bb2-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+Elevator 1 arrived at floor - 13
+starting to move, elevator's travelling end time 154.3
+At t = 149.0
+queue length : 7
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 90, client id - 8e665168-a324-11eb-9bb2-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 150.0
+queue length : 7
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 90, client id - 8e665168-a324-11eb-9bb2-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 151.0
+queue length : 7
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 90, client id - 8e665168-a324-11eb-9bb2-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 152.0
+queue length : 7
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 90, client id - 8e665168-a324-11eb-9bb2-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 153.0
+queue length : 7
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 90, client id - 8e665168-a324-11eb-9bb2-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 154.0
+queue length : 7
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 90, client id - 8e665168-a324-11eb-9bb2-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 155.0
+queue length : 7
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 90, client id - 8e665168-a324-11eb-9bb2-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 156.0
+queue length : 7
+In queue: event t = 82, client id - 8e665167-a324-11eb-9093-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 90, client id - 8e665168-a324-11eb-9bb2-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+starting to move, elevator's travelling end time 174.9
+At t = 157.0
+queue length : 6
+In queue: event t = 90, client id - 8e665168-a324-11eb-9bb2-842afd1e2d74, client's floor number - 1, direction - Up
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+starting to move, elevator's travelling end time 161.2
+At t = 158.0
+queue length : 5
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 159.0
+queue length : 5
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 160.0
+queue length : 5
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 161.0
+queue length : 5
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 162.0
+queue length : 5
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+Elevator 2 arrived at floor - 1
+starting to move, elevator's travelling end time 178.8
+At t = 163.0
+queue length : 5
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 164.0
+queue length : 5
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 165.0
+queue length : 5
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 166.0
+queue length : 5
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 167.0
+queue length : 5
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 168.0
+queue length : 5
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 169.0
+queue length : 5
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 170.0
+queue length : 5
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 171.0
+queue length : 5
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 172.0
+queue length : 5
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 173.0
+queue length : 5
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 174.0
+queue length : 5
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 175.0
+queue length : 5
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+Elevator 1 arrived at floor - 1
+starting to move, elevator's travelling end time 189.7
+At t = 176.0
+queue length : 5
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 177.0
+queue length : 5
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 178.0
+queue length : 5
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 179.0
+queue length : 5
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 180.0
+queue length : 5
+In queue: event t = 98, client id - 8e665169-a324-11eb-99ec-842afd1e2d74, client's floor number - 8, direction - down
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+starting to move, elevator's travelling end time 182.1
+At t = 181.0
+queue length : 4
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 182.0
+queue length : 4
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 183.0
+queue length : 4
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+Elevator 2 arrived at floor - 8
+starting to move, elevator's travelling end time 197.7
+At t = 184.0
+queue length : 4
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 185.0
+queue length : 4
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 186.0
+queue length : 4
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 187.0
+queue length : 4
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 188.0
+queue length : 4
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 189.0
+queue length : 4
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 190.0
+queue length : 4
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 191.0
+queue length : 4
+In queue: event t = 107, client id - 8e66516a-a324-11eb-967b-842afd1e2d74, client's floor number - 16, direction - Up
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+starting to move, elevator's travelling end time 207.8
+At t = 192.0
+queue length : 3
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 193.0
+queue length : 3
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 194.0
+queue length : 3
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 195.0
+queue length : 3
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 196.0
+queue length : 3
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 197.0
+queue length : 3
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 198.0
+queue length : 3
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 199.0
+queue length : 3
+In queue: event t = 117, client id - 8e66516b-a324-11eb-8d6a-842afd1e2d74, client's floor number - 11, direction - down
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+starting to move, elevator's travelling end time 207.4
+At t = 200.0
+queue length : 2
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 201.0
+queue length : 2
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 202.0
+queue length : 2
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 203.0
+queue length : 2
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 204.0
+queue length : 2
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 205.0
+queue length : 2
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 206.0
+queue length : 2
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 207.0
+queue length : 2
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 208.0
+queue length : 2
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+Elevator 1 arrived at floor - 16
+starting to move, elevator's travelling end time 226.9
+Elevator 2 arrived at floor - 11
+starting to move, elevator's travelling end time 229.0
+At t = 209.0
+queue length : 2
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 210.0
+queue length : 2
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 211.0
+queue length : 2
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 212.0
+queue length : 2
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 213.0
+queue length : 2
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 214.0
+queue length : 2
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 215.0
+queue length : 2
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 216.0
+queue length : 2
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 217.0
+queue length : 2
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 218.0
+queue length : 2
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 219.0
+queue length : 2
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 220.0
+queue length : 2
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 221.0
+queue length : 2
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 222.0
+queue length : 2
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 223.0
+queue length : 2
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 224.0
+queue length : 2
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 225.0
+queue length : 2
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 226.0
+queue length : 2
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 227.0
+queue length : 2
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 228.0
+queue length : 2
+In queue: event t = 125, client id - 8e66516c-a324-11eb-93c0-842afd1e2d74, client's floor number - 13, direction - Up
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+starting to move, elevator's travelling end time 240.6
+At t = 229.0
+queue length : 1
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+At t = 230.0
+queue length : 1
+In queue: event t = 132, client id - 8e66516d-a324-11eb-a3cd-842afd1e2d74, client's floor number - 18, direction - down
+starting to move, elevator's travelling end time 265.7
+At t = 231.0
+queue length : 0
+At t = 232.0
+queue length : 0
+At t = 233.0
+queue length : 0
+At t = 234.0
+queue length : 0
+At t = 235.0
+queue length : 0
+At t = 236.0
+queue length : 0
+At t = 237.0
+queue length : 0
+At t = 238.0
+queue length : 0
+At t = 239.0
+queue length : 0
+At t = 240.0
+queue length : 0
+At t = 241.0
+queue length : 0
+Elevator 1 arrived at floor - 13
+starting to move, elevator's travelling end time 264.1
+At t = 242.0
+queue length : 0
+At t = 243.0
+queue length : 0
+At t = 244.0
+queue length : 0
+At t = 245.0
+queue length : 0
+At t = 246.0
+queue length : 0
+At t = 247.0
+queue length : 0
+At t = 248.0
+queue length : 0
+At t = 249.0
+queue length : 0
+At t = 250.0
+queue length : 0
+At t = 251.0
+queue length : 0
+At t = 252.0
+queue length : 0
+At t = 253.0
+queue length : 0
+At t = 254.0
+queue length : 0
+At t = 255.0
+queue length : 0
+At t = 256.0
+queue length : 0
+At t = 257.0
+queue length : 0
+At t = 258.0
+queue length : 0
+At t = 259.0
+queue length : 0
+At t = 260.0
+queue length : 0
+At t = 261.0
+queue length : 0
+At t = 262.0
+queue length : 0
+At t = 263.0
+queue length : 0
+At t = 264.0
+queue length : 0
+At t = 265.0
+queue length : 0
+At t = 266.0
+queue length : 0
+Elevator 2 arrived at floor - 18
+starting to move, elevator's travelling end time 299.6
+At t = 267.0
+queue length : 0
+At t = 268.0
+queue length : 0
+At t = 269.0
+queue length : 0
+At t = 270.0
+queue length : 0
+At t = 271.0
+queue length : 0
+At t = 272.0
+queue length : 0
+At t = 273.0
+queue length : 0
+At t = 274.0
+queue length : 0
+At t = 275.0
+queue length : 0
+At t = 276.0
+queue length : 0
+At t = 277.0
+queue length : 0
+At t = 278.0
+queue length : 0
+At t = 279.0
+queue length : 0
+At t = 280.0
+queue length : 0
+At t = 281.0
+queue length : 0
+At t = 282.0
+queue length : 0
+At t = 283.0
+queue length : 0
+At t = 284.0
+queue length : 0
+At t = 285.0
+queue length : 0
+At t = 286.0
+queue length : 0
+At t = 287.0
+queue length : 0
+At t = 288.0
+queue length : 0
+At t = 289.0
+queue length : 0
+At t = 290.0
+queue length : 0
+At t = 291.0
+queue length : 0
+At t = 292.0
+queue length : 0
+At t = 293.0
+queue length : 0
+At t = 294.0
+queue length : 0
+At t = 295.0
+queue length : 0
+At t = 296.0
+queue length : 0
+At t = 297.0
+queue length : 0
+At t = 298.0
+queue length : 0
+At t = 299.0
+queue length : 0
+At t = 300.0
+queue length : 0
